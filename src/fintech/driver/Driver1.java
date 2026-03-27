@@ -8,7 +8,7 @@ import java.util.Scanner;
 /**
  * @author 12S24038 Nicolas J Grace Butarbutar
  */
-
+//OK
 public class Driver1 {
 
     public static void main(String[] args) {
